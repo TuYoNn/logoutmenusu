@@ -1,6 +1,6 @@
 # logoutmenusu
+i made this program for i3 and awesome
 
-bu programı i3 ve awesome için yaptım.
 <img src="git.png">
 <p><code>git clone https://github.com/tuyonn/logoutmenusu</code></p>
 <p><code>cd logoutmenusu</code></p>
